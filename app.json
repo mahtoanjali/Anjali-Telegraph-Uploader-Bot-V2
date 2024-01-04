@@ -1,21 +1,21 @@
 {
     "name": "Telegraph Bot",
-    "description": "A Id Bot by @MRK_YT",
+    "description": "A Id Bot by @QUEENx_GOD",
     "keywords": [
         "Telegram",
         "Id",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/AnjalixSupportxGroup",
+    "repository": "https://github.com/mahtoanjali/Anjali-Telegraph-Uploader-Bot-V2",
+    "success_url": "https://t.me/+fztuVtP1frMwYTk1",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From https://t.me/QUEENx_GOD or @QUEENx_GOD",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From https://t.me/QUEENx_GOD or @QUEENx_GOD",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -23,15 +23,15 @@
             "value": ""
         },
         "UPDATE_CHANNEL": {
-            "description": "Channel User Name Without @ Eg Mo_Tech_YT",
-            "value": "MT_Botz"
+            "description": "Channel User Name Without @QUEENx_GOD",
+            "value": "QUEENx_GOD"
         },
         "BOT_OWNER": {
-            "description": "Owner Id From @MT_Id_Bot",
+            "description": "Owner Id From @QUEENx_GOD",
             "value": ""
         },
         "DATABASE_URL": {
-            "description": "Database From https://youtu.be/gBLTsH-IXr0",
+            "description": "Database From https://t.me/QUEENx_GOD",
             "value": ""
         },
         "BOT_NAME": {
